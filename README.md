@@ -7,7 +7,8 @@ After a connection is made the user should send the data in the form of a dictio
 can be sent through the socket with no issue ( the microservice will decode it upon recieving).
 
 
-![Example_Call](https://github.com/Rcanete26/pwdValidationMicroservice/assets/101620410/3566c0a4-18a3-45a6-9b71-efa9e965519b)
+
+![image](https://github.com/Rcanete26/pwdValidationMicroservice/assets/101620410/e0aa4727-6488-4106-9281-ce9c4d787238)
 
 
 **Revieving Data:**
