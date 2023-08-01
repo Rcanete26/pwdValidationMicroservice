@@ -5,6 +5,7 @@ Requesting Data:
 To request data the microservice will wait for a connection. When a Connection is made to the Microservice it will send a message to the client to show that a connection was made.
 After a connection is made the user should send the data in the form of a dictionary with specified key value pairs. When sending the dictionary it should be pickled so that it 
 can be sent through the socket with no issue ( the microservice will decode it upon recieving).
+![example call]([Paste_link_here](https://github.com/Rcanete26/pwdValidationMicroservice/blob/main/Screenshot%20(15).png))
 example_dictionary:{
 'password': password being validated
 'upper_length': (int) upper bound of password
