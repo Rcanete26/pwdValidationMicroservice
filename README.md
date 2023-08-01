@@ -8,7 +8,8 @@ After a connection is made the user should send the data in the form of a dictio
 on the dictionary with the data so that it can be sent through the socket with no issue (the microservice will decode it upon recieving).
 
 
-![image](https://github.com/Rcanete26/pwdValidationMicroservice/assets/101620410/e0aa4727-6488-4106-9281-ce9c4d787238)
+![image](https://github.com/Rcanete26/pwdValidationMicroservice/assets/101620410/892c2e11-6f9e-4863-a060-7ac99860a9d8)
+
 
 
 **Revieving Data:**
@@ -19,4 +20,5 @@ empty dictionary it will close and stop functioning to prevent sending false inf
 
 **UML Sequence Diagram:**
 
-![UML Sequence Diagram](https://github.com/Rcanete26/pwdValidationMicroservice/assets/101620410/79d5318e-e4cd-4d76-88c5-c52fd46c27c6)
+
+![sequence drawio](https://github.com/Rcanete26/pwdValidationMicroservice/assets/101620410/f85d7da6-7838-40b5-b089-79a16277dd04)
